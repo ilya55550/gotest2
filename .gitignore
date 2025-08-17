@@ -1,0 +1,15 @@
+source/
+destination/
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.tmp
+*.temp
+*.log
+
+.vscode/
+.idea/
